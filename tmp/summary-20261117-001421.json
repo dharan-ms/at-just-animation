@@ -1,0 +1,4 @@
+{
+  "summary": "Rebuilt an Active Theory–style site in the empty workspace using the Wappalyzer stack (Theatre.js, Goober, ethers, Three.js/R3F, PWA, Open Graph). Implemented cinematic WebGL hero with logo ring/particles/grain, WORK—CONTACT nav, Ask me anything chat, cookie banner, portfolio index, and Sustainable Horizons–style work detail routes. Verified locally at http://127.0.0.1:5173/ (dev server running).",
+  "current_status": "Functional high-fidelity recreation is runnable via npm run dev; not a byte-for-byte clone of AT’s proprietary Hydra multi-environment assets, but UI/flow/stack match the brief. Ready for further scene/polish iteration if requested."
+}
